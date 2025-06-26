@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+together
+requests
+beautifulsoup4
+lxml
+PyMuPDF
